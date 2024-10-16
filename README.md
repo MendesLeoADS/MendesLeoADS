@@ -19,6 +19,8 @@
   <img align="center" alt="WORKSPACE" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendesLeoADS&layout=compact&locale=pt-br)
+
 Curioso ao extremo, apaixonado por tecnologia e inovação!
 
 ### Alguns Projetos que sairam do Papel:
