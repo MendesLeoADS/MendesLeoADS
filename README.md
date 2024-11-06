@@ -24,5 +24,6 @@
 Curioso ao extremo, apaixonado por tecnologia e inovação!
 
 ### Alguns Projetos que sairam do Papel:
+- [Projeto Acadêmico ;](https://mendesleoads.github.io/Projeto-Vida-e-Carreira-USJT/)<br />
 - [Page Namorada ;](https://mendesleoads.github.io/PageNamorada/)<br />
 - [Loja Mell Modus - Links .](https://mendesleoads.github.io/Links-Loja-Mell-Modus/)<br />
