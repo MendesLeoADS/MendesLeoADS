@@ -26,6 +26,7 @@ Curioso ao extremo, apaixonado por tecnologia e inovação!
 ### Alguns Projetos que sairam do Papel:
 - [Projeto Acadêmico ;](https://mendesleoads.github.io/Projeto-Vida-e-Carreira-USJT/)<br />
 - [Imersão Backend ;](https://mendesleoads.github.io/readme-imersao-backend/)<br />
+- [Site Artes Marciais ;](https://mendesleoads.github.io/site-blacklotus-vilaformosa/)<br />
 - [Jogo Web - Número Secreto](https://mendesleoads.github.io/JogoNumeroSecreto/)<br />
 - [Meu Treino Web](https://mendesleoads.github.io/meu_treino/)<br />
 - [Page Namorada ;](https://mendesleoads.github.io/PageNamorada/)<br />
