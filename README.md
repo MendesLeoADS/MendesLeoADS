@@ -24,11 +24,12 @@
 Curioso ao extremo, apaixonado por tecnologia e inovação!
 
 ### Alguns Projetos que sairam do Papel:
-- [Projeto Acadêmico ;](https://mendesleoads.github.io/Projeto-Vida-e-Carreira-USJT/)<br />
-- [Imersão Backend ;](https://mendesleoads.github.io/readme-imersao-backend/)<br />
+- [Lista de Usuários - L5 NetWorks](https://mendesleoads.github.io/list-users/)<br />
 - [Site Artes Marciais ;](https://mendesleoads.github.io/site-blacklotus-vilaformosa/)<br />
-- [Jogo Web - Número Secreto](https://mendesleoads.github.io/JogoNumeroSecreto/)<br />
 - [Meu Treino Web](https://mendesleoads.github.io/meu_treino/)<br />
+- [Projeto Acadêmico - Vida e Carreira ;](https://mendesleoads.github.io/Projeto-Vida-e-Carreira-USJT/)<br />
+- [Imersão Backend ;](https://mendesleoads.github.io/readme-imersao-backend/)<br />
+- [Jogo Web - Número Secreto](https://mendesleoads.github.io/JogoNumeroSecreto/)<br />
 - [Page Namorada ;](https://mendesleoads.github.io/PageNamorada/)<br />
 - [Loja Mell Modus - Links .](https://mendesleoads.github.io/Links-Loja-Mell-Modus/)<br />
 
