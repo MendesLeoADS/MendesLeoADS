@@ -24,8 +24,9 @@
 Curioso ao extremo, apaixonado por tecnologia e inovação!
 
 ### Alguns Projetos que sairam do Papel:
-- [Lista de Usuários - L5 NetWorks ;](https://mendesleoads.github.io/list-users/)<br />
+- [Spotify Web Page - Réplica React ;](https://mendesleoads.github.io/spotifydev-react/)<br />
 - [Site Artes Marciais ;](https://mendesleoads.github.io/site-blacklotus-vilaformosa/)<br />
+- [Lista de Usuários - L5 NetWorks ;](https://mendesleoads.github.io/list-users/)<br />
 - [Meu Treino Web](https://mendesleoads.github.io/meu_treino/)<br />
 - [Projeto Acadêmico - Vida e Carreira ;](https://mendesleoads.github.io/Projeto-Vida-e-Carreira-USJT/)<br />
 - [Imersão Backend ;](https://mendesleoads.github.io/readme-imersao-backend/)<br />
