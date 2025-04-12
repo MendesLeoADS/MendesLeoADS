@@ -5,29 +5,40 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511970233251)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mleonardoo_/)
 
-![Léo Mendes GitHub status](https://github-readme-stats.vercel.app/api?username=MendesLeoADS&show_icons=true&theme=cobalt&locale=pt-br)
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-### Tecnologias que utilizo no meu dia-a-dia:
+###
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="PPTX" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img align="center" alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="WORKSPACE" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
-</div><br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MendesLeoADS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MendesLeoADS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendesLeoADS&layout=compact&locale=pt-br)
+###
 
-Curioso ao extremo, apaixonado por tecnologia e inovação!
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### Alguns Projetos que sairam do Papel:
-- [Spotify Web Page (Réplica) ;](https://mendesleoads.github.io/spotifydev-react/)<br />
-- [Site Artes Marciais ;](https://mendesleoads.github.io/site-blacklotus-vilaformosa/)<br />
-- [Convite de Aniversário;](https://mendesleoads.github.io/conviteNiver/)<br />
-- [Imersão Backend ;](https://mendesleoads.github.io/readme-imersao-backend/)<br />
-- [Jogo Web - Número Secreto ;](https://mendesleoads.github.io/JogoNumeroSecreto/)<br />
-- [Page Namorada ;](https://mendesleoads.github.io/PageNamorada/)<br />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MendesLeoADS/MendesLeoADS/output/snake.svg" alt="Snake animation" />
+
+###
 
