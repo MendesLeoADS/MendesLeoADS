@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511970233251)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mleonardoo_/)
 
-<h2 align="left">Sou um Desenvolvedor apaixonado por tecnologia e curioso ao extremo!</h2>
+<h2 align="left">Sou um Desenvolvedor curioso ao extremo, apaixonado por tecnologia e inovação!</h2>
 
 ###
 
